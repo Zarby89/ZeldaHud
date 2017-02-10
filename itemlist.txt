@@ -1,0 +1,68 @@
+//Please note the first 45 items (45 is Agahnim) 
+//order should not be changed if you use auto-update
+//<- commentary not readed by the program 
+//Also do not use , in item name :p
+
+//Name, {Icons Order},Loop,isBottle,haveCount
+:Bow,{48,49,49},false,false,false;
+:Boomerang,{1},false,false,false;
+:Hookshot,{2},false,false,false;
+:Bombs,{3},false,false,false;
+:Mushroom,{4,56},false,false,false;
+:Fire Rod,{5},false,false,false;
+:Ice Rod,{6},false,false,false;
+:Bombos,{7},false,false,false;
+:Ether,{8},false,false,false;
+:Quake,{9},false,false,false;
+:Lamp,{10},false,false,false;
+:Hammer,{11},false,false,false;
+:Shovel,{12,57},false,false,false;
+:Net,{13},false,false,false;
+:Book,{14},false,false,false;
+:Cane of Somaria,{15},false,false,false;
+:Cane of Byrna,{16},false,false,false;
+:Cape,{17},false,false,false;
+:Mirror,{18,18},false,false,false;
+:Gloves,{19,43},false,false,false;
+:Boots,{20},false,false,false;
+:Flippers,{21},false,false,false;
+:Moon Pearl,{22},false,false,false;
+:Swords,{23,38,39,40},false,false,false;
+:Shield,{24,44,45},false,false,false;
+:Tunic,{25,41,42},false,false,false;
+:Bottle 1,{26,26,50,51,52,53,54,54},false,true,false;
+:Bottle 2,{26,26,50,51,52,53,54,54},false,true,false;
+:Bottle 3,{26,26,50,51,52,53,54,54},false,true,false;
+:Bottle 4,{26,26,50,51,52,53,54,54},false,true,false;
+:Eastern Pendant,{27},false,false,false;
+:Desert Pendant,{28},false,false,false;
+:Hera,{29},false,false,false;
+:Crystal 1,{30},false,false,false;
+:Crystal 2,{31},false,false,false;
+:Crystal 3,{32},false,false,false;
+:Crystal 4,{33},false,false,false;
+:Crystal 5,{34},false,false,false;
+:Crystal 6,{35},false,false,false;
+:Crystal 7,{36},false,false,false;
+:Red Boomerang,{37},false,false,false;
+:Powder,{46},false,false,false;
+:Flute,{47},false,false,false;
+:Agahnim,{55},false,false,false; //Here end autoupdate logic
+:Timer,{61},false,false,false; //show a timer that start when pressing Timer_Start
+:Timer_Start,{62},false,false,false; //start the timer
+:Timer_Done,{63},false,false,false; //end the timer
+:Time_StartDone,{62,63},false,false,false; //start and end the timer
+:Nothing,{53},false,false,false; //can be changed in something else - do not remove
+:Nothing,{54},false,false,false; //can be changed in something else - do not remove
+:Nothing,{55},false,false,false; 
+:Chest,{58,59},false,false,false; //Do not remove anything above here
+:Sanc Heart,{60},false,false,false;
+:Heart Pieces,{66,67,68,69},true,false,false;
+:Heart Pieces,{66,67,68,69},true,false,false;
+:Bottle Counter,{70,71,72,73},false,false,false;
+:Bottle Counter2,{26,71,72,73},false,false,false;
+:ShovelFlute,{12,47},false,false,false;
+:MushPowder,{46,4},false,false,false;
+:BothBoomerang,{1,37},false,false,false;
+:DoubleQuarterMagic,{64,65},false,false,false;
+:Heart Counter,{60},false,false,true;

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HudZelda")]
+[assembly: AssemblyTitle("zeldaGui")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HudZelda")]
+[assembly: AssemblyProduct("zeldaGui")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("08c2ae9d-8743-4db7-9891-8ae2e6dca47b")]
+[assembly: Guid("affcfa3b-ae19-4dac-a211-50d3f7f8b028")]
 
 // Version information for an assembly consists of the following four values:
 //

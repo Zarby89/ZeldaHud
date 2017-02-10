@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HudZelda.Properties
+namespace zeldaGui.Properties
 {
 
 
