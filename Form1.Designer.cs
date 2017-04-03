@@ -136,7 +136,7 @@
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            this.openFileDialog1.Filter = "SRAM Files|*.srm";
+            this.openFileDialog1.Filter = "SRAM Files|*.srm;*.SaveRAM";
             // 
             // timer1
             // 
